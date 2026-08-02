@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="rahulkumawatkumawat2000@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
